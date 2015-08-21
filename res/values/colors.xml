@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#e3e2dd</color>
+    <color name="blue">#2d5cc8</color>
+    <color name="red">#b63c2f</color>
+    <color name="background_black">#262626</color>
+    <color name="slider_grey">#999</color>
+</resources>

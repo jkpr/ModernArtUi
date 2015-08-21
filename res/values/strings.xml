@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernArtUi</string>
+    <string name="action_more_information">More Information</string>
+    <string name="art_description">Inspired by \"Composition No. II, with Red and Blue,\" completed by Piet Mondrian in 1929. Visit the original at Museum of Modern Art (MoMA)?</string>
+    <string name="cancel">Not Now</string>
+    <string name="visit_moma">Visit MoMA</string>
+</resources>

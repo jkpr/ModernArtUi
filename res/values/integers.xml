@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These weights are derived from a pixel count  -->
+    <integer name="col_1_weight">690</integer>
+    <integer name="col_2_weight">360</integer>
+    <integer name="row_1_weight">390</integer>
+    <integer name="row_2_weight">360</integer>
+    <integer name="row_3_weight">500</integer>
+    <integer name="row_2and3_weight">890</integer>
+</resources>
